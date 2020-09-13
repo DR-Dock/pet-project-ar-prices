@@ -1,2 +1,2 @@
-# pet-project-ar-prices
+# pet-project-сar-prices
 Предсказание цен на автомобили, а так же сбор данных. 
